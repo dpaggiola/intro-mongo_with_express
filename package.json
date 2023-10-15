@@ -1,0 +1,11 @@
+{
+  "name": "intro-mongo_with_express",
+  "version": "1.0.0",
+  "description": "Ejemplo en clase de Tecnologías de Arquitectura de Software.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Paggiola",
+  "license": "ISC"
+}
